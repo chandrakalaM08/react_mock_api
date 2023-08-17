@@ -1,0 +1,25 @@
+{
+  "name": "react_mock_api",
+  "version": "1.0.0",
+  "description": "This is revision assessment for react-redux  mock data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrakalaM08/react_mock_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrakalaM08/react_mock_api/issues"
+  },
+  "homepage": "https://github.com/chandrakalaM08/react_mock_api#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "json-server": "^0.17.3"
+  }
+}

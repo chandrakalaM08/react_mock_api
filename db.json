@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Music Instrument",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "name": "Music Instrument 2",
+            "price": 3000
+        }
+    ]
+}
